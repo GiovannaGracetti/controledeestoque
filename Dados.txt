@@ -1,0 +1,15 @@
+1021,Arroz,Grãos,25.9,52
+3102,Feijão,Grãos,8.5,47
+2183,Macarrão,Massas,6.99,36
+1034,Azeite,Mercenaria,25.5,43
+1205,Leite,Laticínios,5.99,64
+1066,Detergente,Limpeza,3.5,48
+2546,Alface,Hortifruti,10.5,35
+1022,Farinha,Grãos,6.9,56
+3204,Maçã,Hortifruti,2.9,74
+2030,Patinho,Açougue,49.9,27
+1103,Picanha,Açougue,89.5,25
+2120,Sazon Carne,Tempero,4.99,64
+1321,Milho,Grãos,5.5,58
+3321,Óleo,Mercenaria,8.9,39
+2123,Cenoura,Hortifruti,5.9,63
